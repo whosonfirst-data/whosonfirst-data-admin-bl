@@ -50,7 +50,7 @@
         "wk:page":"Corossol"
     },
     "wof:country":"BL",
-    "wof:geomhash":"e1d90dbbe6f2a7d2ac6f16a6d979b1a9",
+    "wof:geomhash":"2c2a8f13d82e0733291414f741de9aa4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -77,5 +77,5 @@
     -62.85563000000001,
     17.90857
 ],
-  "geometry": {"coordinates":[-62.85563000000001,17.90857],"type":"Point"}
+  "geometry": {"coordinates":[-62.85563,17.90857],"type":"Point"}
 }

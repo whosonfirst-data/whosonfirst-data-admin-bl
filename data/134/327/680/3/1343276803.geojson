@@ -103,7 +103,7 @@
         "gn:id":3579485
     },
     "wof:country":"BL",
-    "wof:geomhash":"dd2aea6591acf22d66cc8cb4b4331635",
+    "wof:geomhash":"6c9beadb23ad259b916669061f9e880b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -130,5 +130,5 @@
     -62.85949,
     17.91436000000001
 ],
-  "geometry": {"coordinates":[-62.85949,17.91436000000001],"type":"Point"}
+  "geometry": {"coordinates":[-62.85949,17.91436],"type":"Point"}
 }

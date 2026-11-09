@@ -44,7 +44,7 @@
         "gn:id":3578974
     },
     "wof:country":"BL",
-    "wof:geomhash":"de7b4af5b668ad8a8e4deaf2cc220714",
+    "wof:geomhash":"fd394d5be1be42e2f3b0ed899f901e3d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -62.83866999999999,
     17.88777
 ],
-  "geometry": {"coordinates":[-62.83866999999999,17.88777],"type":"Point"}
+  "geometry": {"coordinates":[-62.83867,17.88777],"type":"Point"}
 }
